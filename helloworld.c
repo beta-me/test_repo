@@ -1,6 +1,7 @@
 //program prints hello world
 #include<stdio.h>
-int main()
+
+int main()//main function
 {
     printf("hello, world\n");//prints helloworld
     int a=0,b=5;
